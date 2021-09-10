@@ -11,5 +11,4 @@ I offer expertise in full-stack development includes Python, Django, Mysql, Boot
 𝗜𝗳 𝘆𝗼𝘂 𝘄𝗮𝗻𝗻𝗮 𝗹𝗲𝗮𝗿𝗻 𝗺𝗼𝗿𝗲 𝗮𝗯𝗼𝘂𝘁 𝗺𝗲 𝗼𝗿 𝗵𝗼𝘄 𝗜 𝗰𝗮𝗻 𝗮𝗱𝗱 𝘃𝗮𝗹𝘂𝗲 𝘁𝗼 𝘆𝗼𝘂𝗿 𝗢𝗿𝗴𝗮𝗻𝗶𝘇𝗮𝘁𝗶𝗼𝗻, 𝗣𝗶𝗻𝗴 𝗺𝗲 𝗵𝗲𝗿𝗲 point_down
 
 𝗘-𝗺𝗮𝗶𝗹:muhammadzeeshanbaqir@gmail.com
-𝗣𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼: 
-linkedin:
+linkedin: https://www.linkedin.com/in/muhammad-zeeshan-baqir-17498418b/
